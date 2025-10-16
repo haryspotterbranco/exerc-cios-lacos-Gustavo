@@ -1,9 +1,6 @@
-let contador = 1;
-let soma = 0;
+let x = 1;
 
-while (contador <= 5) {
-  soma += contador; 
-  contador++;
+while (x <= 10) {
+  console.log(`3 x ${x} = ${3 * x}`);
+  x++;
 }
-
-console.log("A soma é:", soma);

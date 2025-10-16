@@ -1,4 +1,4 @@
-let contador =1;
+let contador =0;
 
 while (contador <= 5) {
   console.log(contador);

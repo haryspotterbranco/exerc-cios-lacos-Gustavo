@@ -1,8 +1,6 @@
-let numero = 1;
+let numero = 10;
 
-while (numero <= 15) {
-  if (numero % 2 !== 0) { 
-    console.log(numero);
-  }
-  numero++;
+while (numero >= 0) {
+  console.log(numero);
+  numero--;
 }
