@@ -1,6 +1,5 @@
 let num = 0;
-
-while (num <= 5) {
+do{
   console.log(num);
   num++;
-}
+} while (num <= 5)
