@@ -1,5 +1,5 @@
-let contador =0;
-while (contador != 6){
-    console.log(contador)
-    contador++;
+let c = 0;
+while (c < 6){
+    console.log(c)
+    c++
 }

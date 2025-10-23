@@ -1,12 +1,8 @@
 let i = 1;
-let i = 1;
 
-while (i <= 10){
-    let j = 1
-    while (j <=10){
-        console.log(`${i} * ${j} = ${i*j}` );
-        j++
+while (1 <= 10){
+    let j = 1;
+    while(j<=10){
+        console.log(`${i}`)
     }
-    i++;
-    console.log("-------------")
 }
